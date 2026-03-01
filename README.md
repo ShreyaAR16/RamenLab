@@ -137,6 +137,12 @@ Or connect your GitHub repository directly in the Vercel dashboard for automatic
 
 ---
 
+## Live Demo
+
+Check out the deployed app here: [https://v0-ramen-bowl-builder.vercel.app/](https://v0-ramen-bowl-builder.vercel.app/)
+
+---
+
 ## License
 
 MIT
